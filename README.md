@@ -1,6 +1,6 @@
 # Project-04
 ## Introduction
-Project 4 is 
+Project 4 is a game (much like the TV show countdown) which will allow the user to pick a vowel for a consonant up to a vertan amount of times. The user can only use a vertain amout of vowels and consonats each when picking letters.
 
 ![flowchart](image)
 
